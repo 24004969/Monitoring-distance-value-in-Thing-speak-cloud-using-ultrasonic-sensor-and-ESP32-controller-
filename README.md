@@ -4,7 +4,7 @@ reg no:24004969
 
 # Uploading the distance value in the  Thingspeak cloud using an IOT controller
 
-# Uploading ultrasonic sensor data in Thing Speak cloud
+
 
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
