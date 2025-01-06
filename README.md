@@ -2,7 +2,7 @@ Name:Ajay J
 
 reg no:24004969
 
-# Monitoring distance value in Thingspeak cloud using ultrasonic sensor and ESP32 controller
+# Uploading the distance value in the  Thingspeak cloud using an IOT controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 
