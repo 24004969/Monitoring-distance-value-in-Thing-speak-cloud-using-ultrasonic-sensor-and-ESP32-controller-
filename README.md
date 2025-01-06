@@ -1,6 +1,6 @@
-# Name:Ajay J 
+### Name:Ajay J 
 
-# Reg no:24004969
+### Reg no:24004969
 
 # Experiment 6: Uploading the distance value in the  Thingspeak cloud using an IOT controller
 
